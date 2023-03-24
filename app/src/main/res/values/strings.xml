@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">sol-td07</string>
+    <string-array name="grades">
+        <item>BEGINNER</item>
+        <item>INTERMEDIATE</item>
+        <item>ADVANCED</item>
+    </string-array>
 </resources>
